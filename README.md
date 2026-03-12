@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 2 years of practical experience in systems development<br>- Technical degree in Systems Development from E.E Pedro José Neto<br>- Advanced English proficiency for reading and understanding technical documentation<br>- Focused on delivering functional and well-crafted interfaces, prioritizing user experience (UI/UX)</p>
+<p align="left">- 4 years of practical experience in systems development<br>- Technical degree in Systems Development from E.E Pedro José Neto<br>- Advanced English proficiency for reading and understanding technical documentation<br>- Focused on delivering functional and well-crafted interfaces, prioritizing user experience (UI/UX)</p>
 
 ###
 
